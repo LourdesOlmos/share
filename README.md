@@ -22,8 +22,3 @@ Then invoke the static `share` method anywhere in your Dart code
 ``` dart
 Share.share('check out my website https://example.com');
 ```
-
-To share a file invoke the static `shareFile` method anywhere in your Dart code
-``` dart
-Share.shareFile(File('${directory.path}/image.jpg'));
-```
