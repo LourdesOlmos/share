@@ -1,4 +1,4 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<!-- <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="io.flutter.plugins.share">
 	    <application>
 	        <provider
@@ -11,4 +11,7 @@
 	                android:resource="@xml/flutter_share_file_paths" />
 	        </provider>
 	    </application>
+</manifest> -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+  package="io.flutter.plugins.share">
 </manifest>
